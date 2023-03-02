@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3878553 */
+  src: url('iconfont.woff2?t=1677729793549') format('woff2'),
+       url('iconfont.woff?t=1677729793549') format('woff'),
+       url('iconfont.ttf?t=1677729793549') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Bot:before {
+  content: "\e629";
+}
+
+.icon-copy:before {
+  content: "\e66b";
+}
+
+.icon-help:before {
+  content: "\e678";
+}
+
+.icon-direction-left:before {
+  content: "\e66c";
+}
+
+.icon-lock:before {
+  content: "\e677";
+}
+
+.icon-more:before {
+  content: "\e679";
+}
+
+.icon-security:before {
+  content: "\e67f";
+}
+
+.icon-sign-out:before {
+  content: "\e680";
+}
+
+.icon-user:before {
+  content: "\e682";
+}
+
+.icon-delete:before {
+  content: "\e66a";
+}
+
+.icon-edit:before {
+  content: "\e66e";
+}
+
+.icon-loading:before {
+  content: "\e676";
+}
+
+.icon-navigation:before {
+  content: "\e67a";
+}
+
+.icon-refresh:before {
+  content: "\e67b";
+}
+
+.icon-share:before {
+  content: "\e67d";
+}
+
+.icon-setting:before {
+  content: "\e67e";
+}
+
+.icon-close-bold:before {
+  content: "\e685";
+}
+
+.icon-select-bold:before {
+  content: "\e687";
+}
+
